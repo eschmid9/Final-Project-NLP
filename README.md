@@ -84,4 +84,4 @@ Once the app is running:
 2. Confirm the database connection
 3. Start asking questions about Friends
 
-Link to streamlit deployment: [Friends Assistant]([http://localhost:8501/](https://nlp-eschmid9.streamlit.app/))
+Link to streamlit deployment: [Friends Assistant]([http://localhost:8501/](https://nlp-eschmid9.streamlit.app/)
