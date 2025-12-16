@@ -216,7 +216,7 @@ st.markdown("<style>...</style>", unsafe_allow_html=True)
 
 # MAIN HEADER SECTION
 st.title("🚪👫 The One Where Friends Feels Real")
-st.image("/Users/gustavoschmidt/Documents/LASTNAME_LPP_Rag/ASSETS/Screenshot 2025-12-13 at 18.46.08.png", width=160)
+st.image("LASTNAME_LPP_Rag/ASSETS/door.png", width=160)
 # -----------------------------------------------------------------------------
 # Central Perk Welcome Section
 # -----------------------------------------------------------------------------
