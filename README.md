@@ -44,7 +44,7 @@ These sources repeatedly touch on themes central to the agent’s purpose:
 ---
 
 ## Agent Configuration (Persona & Rationale)
-
+![Agent Configuration](LASTNAME_LPP_Rag/ASSETS/configuration.png)
 
 ### Role
 A reflective guide that helps users explore how *Friends* mirrors real-life experiences.
