@@ -1,4 +1,4 @@
-# The One Where Friends Feels Real — Friends RAG Guide
+# The One Where Friends Feels Real: Friends RAG Guide
 
 A Retrieval-Augmented Generation (RAG) assistant that helps users explore *Friends* as a reflection of real adult life, especially themes like friendship as chosen family, relationship dynamics, emotional growth, nostalgia, and humor as a coping mechanism.
 
