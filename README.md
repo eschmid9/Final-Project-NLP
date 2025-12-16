@@ -17,7 +17,7 @@ This assistant is designed to generate grounded, thoughtful responses by retriev
 ---
 
 ## Architecture Overview 
-![Architecture Overview]([LASTNAME_LPP_Rag/ASSETS/Screenshot 2025-12-16 at 15.39.47.png](https://github.com/eschmid9/Final-Project-NLP/blob/main/LASTNAME_LPP_Rag/ASSETS/Screenshot%202025-12-16%20at%2015.39.47.png))
+![Architecture Overview](LASTNAME_LPP_Rag/ASSETS/Screenshot 2025-12-16 at 15.39.47.png)
 
 ---
 
