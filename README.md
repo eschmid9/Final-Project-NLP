@@ -10,7 +10,7 @@ This assistant is designed to generate grounded, thoughtful responses by retriev
 
 **Domain:** The TV show *Friends* (1994–2004), treated as a cultural and emotional reflection of real adult life.
 
-**Problem:** Many tools and discussions about *Friends* tend to be surface-level (e.g., trivia, favorite moments, quotes) or opinion-based without grounding. At the same time, there is a wide range of analysis, academic papers, cultural essays, and commentary, about why the show feels relatable and emotionally resonant, but those insights are scattered across different sources.
+**Problem:** Many tools and discussions about *Friends* tend to be surface-level (e.g., trivia, favorite moments, quotes) or opinion-based without grounding. At the same time, there is a wide range of analysis, academic papers, cultural essays, and commentary, about why the show feels emotionally relevant, but those insights are scattered across different sources.
 
 **Solution:** This RAG assistant makes those insights easier to access in one place by retrieving relevant passages from a curated database and generating responses that connect the show to real-life experiences.
 
@@ -57,7 +57,7 @@ The assistant has access to a curated document collection that analyzes *Friends
 
 ### Why This Agent?
 This persona matches the dataset and improves response quality because it:
-- Encourages retrieval from multiple sources (not just one document)
+- Encourages retrieval from multiple sources
 - Supports synthesis and interpretation rather than summarization
 - Produces answers that feel thoughtful, grounded, and explainable
 
@@ -66,6 +66,20 @@ This persona matches the dataset and improves response quality because it:
 ## Installation & Setup
 
 ### 1) Clone the repository
-```bash
 git clone <YOUR_GITHUB_REPO_URL>
 cd <YOUR_REPO_FOLDER>
+
+### 2) Install Dependencies
+pip install -r requirements.txt
+
+### 3) Ensure Database Is Available 
+backend/friends.duckdb
+
+### 4) Run the Streamlit Application
+streamlit run app.py
+
+### 5) Enter Your OpenAI API Key 
+Once the app is running:
+1. Enter OpenAI API key in the sidebar
+2. Confirm the database connection
+3. Start asking questions about Friends
