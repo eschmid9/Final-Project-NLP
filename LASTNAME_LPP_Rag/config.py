@@ -10,7 +10,7 @@
 import os
 
 # Default Configuration
-DEFAULT_DB_PATH = "backend/friends.duckdb" # UPDATE WITH YOUR .duckdb file for database.py
+DEFAULT_DB_PATH = "LASTNAME_LPP_Rag/backend/friends.duckdb" # UPDATE WITH YOUR .duckdb file for database.py
 DEFAULT_TOP_K = 10 # Default top k neighbors parameter for app.py
 DEFAULT_MAX_ITER = 3 # Default iterations for app.py
 DEFAULT_MODEL = "gpt-4o-mini" # Default model for app.py
